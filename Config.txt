@@ -1,0 +1,18 @@
+~This is an example config notecard
+~Inventory|Notecard|Texture UUID|Price|Split>Split>Split>repeatasmanytimesasyouwouldlike
+~Split format is as follows: person's key: L$amount
+~I'll give a reaslistic example:
+~Object|ObjectNode|93515068-2ef8-e1c6-66fe-7557874cb8e1|100|db677501-355c-470b-a4f9-2a4b905e2c63:50>12b22ced-01b5-4f53-9461-e52d7815d6fe:50
+~
+Object|ExampleNote|d16a6857-783a-9534-2d70-ef9dafa3d88f|100|db677501-355c-470b-a4f9-2a4b905e2c63:50>db677501-355c-470b-a4f9-2a4b905e2c63:50
+Object|ExampleNote|46d827a7-d6dc-6c7d-4445-a6337a9eb634|110|db677501-355c-470b-a4f9-2a4b905e2c63:70>db677501-355c-470b-a4f9-2a4b905e2c63:30
+Object|ExampleNote|2fa4ce7d-8ea7-a523-0b2c-ee02ffe3ef32|120|db677501-355c-470b-a4f9-2a4b905e2c63:100
+Object|ExampleNote|5198a74a-404a-f097-fd68-0fc1700b995d|130|db677501-355c-470b-a4f9-2a4b905e2c63:100
+Object|ExampleNote|d16a6857-783a-9534-2d70-ef9dafa3d88f|140|db677501-355c-470b-a4f9-2a4b905e2c63:50>db677501-355c-470b-a4f9-2a4b905e2c63:50
+Object|ExampleNote|46d827a7-d6dc-6c7d-4445-a6337a9eb634|150|db677501-355c-470b-a4f9-2a4b905e2c63:70>db677501-355c-470b-a4f9-2a4b905e2c63:30
+Object|ExampleNote|2fa4ce7d-8ea7-a523-0b2c-ee02ffe3ef32|160|db677501-355c-470b-a4f9-2a4b905e2c63:100
+Object|ExampleNote|5198a74a-404a-f097-fd68-0fc1700b995d|170|db677501-355c-470b-a4f9-2a4b905e2c63:100
+Object|ExampleNote|d16a6857-783a-9534-2d70-ef9dafa3d88f|180|db677501-355c-470b-a4f9-2a4b905e2c63:50>db677501-355c-470b-a4f9-2a4b905e2c63:50
+Object|ExampleNote|46d827a7-d6dc-6c7d-4445-a6337a9eb634|190|db677501-355c-470b-a4f9-2a4b905e2c63:70>db677501-355c-470b-a4f9-2a4b905e2c63:30
+Object|ExampleNote|2fa4ce7d-8ea7-a523-0b2c-ee02ffe3ef32|200|db677501-355c-470b-a4f9-2a4b905e2c63:100
+Object|ExampleNote|5198a74a-404a-f097-fd68-0fc1700b995d|210|db677501-355c-470b-a4f9-2a4b905e2c63:100
