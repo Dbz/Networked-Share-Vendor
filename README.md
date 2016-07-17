@@ -29,17 +29,17 @@ An example would look like this:
     
 ## Server:
 
- 1) Put the EmailNode.lsl scripts in a prim and make sure the script endings range from 1 to the amount of nodes you have e.g. "EmailNode.lsl 1" to "EmailNode.lsl X"
- 2) Put in the Configuration notecard, the products' textures, notecards, and objects.
- 3) Put in the Server.lsl script and open it. There are three variables that need to be set:
+ 1. Put the EmailNode.lsl scripts in a prim and make sure the script endings range from 1 to the amount of nodes you have e.g. "EmailNode.lsl 1" to "EmailNode.lsl X"
+ 2. Put in the Configuration notecard, the products' textures, notecards, and objects.
+ 3. Put in the Server.lsl script and open it. There are three variables that need to be set:
     - The password (same for both server and vendor)
     - The name of your configuration notecard
     - The character which marks a comment in the configuration notecard. (In my example, I used `~`)
 
 ## Vendor:
 
- 1) Put the EmailNode.lsl scripts in a prim and make sure the script endings range from 1 to the amount of nodes you have e.g. "EmailNode.lsl 1" to "EmailNode.lsl X"
- 2) Put in the Core.lsl script, and open it. There are four variables that need to be set:
+ 1. Put the EmailNode.lsl scripts in a prim and make sure the script endings range from 1 to the amount of nodes you have e.g. "EmailNode.lsl 1" to "EmailNode.lsl X"
+ 2. Put in the Core.lsl script, and open it. There are four variables that need to be set:
     - The key of the server (It is told to you by the server on reset.)
     - Whether or not the vendor is a share vendor (If it is a share vendor, then it is not for personal use, and you give it to someone else)
     - The share vendor commision percentage
